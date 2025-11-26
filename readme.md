@@ -1,15 +1,16 @@
-# Muistilappu verkkosivu
+# Muistilappu-verkkosivu
 
 ## Mitä tällä voi tehdä?
- 1. Tehdä muistilappuja
- 2. Liikuttaa muistilappuja
- 3. Tallentaa muistilappuja tietokantaan
- 4. Kirjaudu sisään/Rekisteröidy
- 5. Muistilaput tallentuu per käyttäjä
+1. Luoda muistilappuja  
+2. Siirtää muistilappuja  
+3. Tallentaa muistilappuja tietokantaan  
+4. Kirjautua sisään / rekisteröityä  
+5. Muistilaput tallentuvat käyttäjäkohtaisesti
 
 ## Käyttäjät
-Tällä projektilla on kaksi valmiiksi tehtyä käyttäjää
+Tällä projektilla on kaksi valmiiksi luotua käyttäjää:
+
 |Käyttäjätunnus|Salasana|
-|--|--|
+|-|-|
 |juuso|juuso|
 |root|root|
