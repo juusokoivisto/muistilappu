@@ -1,4 +1,4 @@
-# Muistilappu-verkkosivu
+# Muistilappu verkkosivu
 
 ## Mitä tällä voi tehdä?
 1. Luoda muistilappuja  
