@@ -1,5 +1,4 @@
 # Muistilappu verkkosivu
-
 ## Mitä tällä voi tehdä?
 1. Luoda muistilappuja  
 2. Siirtää muistilappuja  
@@ -14,3 +13,6 @@ Tällä projektilla on kaksi valmiiksi luotua käyttäjää:
 |-|-|
 |juuso|juuso|
 |root|root|
+
+## Kuvia
+<img src="git_images/example_01.png" alt="drawing" width="720"/>
